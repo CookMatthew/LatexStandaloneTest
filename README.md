@@ -1,2 +1,2 @@
 # LatexStandaloneTest
-![alt text](./FPGAEthernet.png)
+![alt text](FPGABank14.PNG)
