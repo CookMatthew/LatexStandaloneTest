@@ -1,2 +1,2 @@
 # LatexStandaloneTest
-<h3 style="color:#ffff00">Danger</h3>
+<span color="red">red</span>
