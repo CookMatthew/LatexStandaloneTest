@@ -1,2 +1,2 @@
 # LatexStandaloneTest
-<span style="color: red">I am red</span>
+<span style=“color:green;”> text goes here</span>
