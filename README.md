@@ -1,2 +1,2 @@
 # LatexStandaloneTest
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+![alt text](FPGAEthernet.png)
